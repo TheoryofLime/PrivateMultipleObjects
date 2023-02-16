@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecY3mBcRgmRNtO34b+Og+sd/HFV7cXfWFLuV57l7sOhwc0eiwv0ogoiRiVkwJLqeeS0oFm6yPyS4BtRtdHzlfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Storage\\Work\\cit195\\assignment4\\PrivateMultipleObjects\\PrivateMultipleObjects\\PrivateMultipleObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
